@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Peças e Acessórios de Moto | Ofertas</title>
+  <meta name="description" content="As melhores peças e acessórios de moto com links oficiais do Mercado Livre e Shopee." />
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #0f0f0f; color: #fff; }
+    header { padding: 20px; text-align: center; background: #ffcc00; color: #000; }
+    header h1 { margin: 0; }
+    .container { padding: 20px; max-width: 900px; margin: auto; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
+    .card { background: #1c1c1c; border-radius: 12px; padding: 16px; box-shadow: 0 4px 10px rgba(0,0,0,.4); }
+    .card h3 { margin-top: 0; }
+    .card p { font-size: 14px; }
+    .btn { display: inline-block; margin-top: 10px; padding: 10px 14px; background: #ffcc00; color: #000; text-decoration: none; border-radius: 8px; font-weight: bold; }
+    footer { text-align: center; padding: 20px; font-size: 12px; color: #aaa; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🏍️ Peças & Acessórios de Moto</h1>
+    <p>Produtos testados • Links oficiais • Compra segura</p>
+  </header>
+
+  <div class="container">
+    <h2>🔥 Produtos em Destaque</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>📱 Suporte de Celular</h3>
+        <p>Compatível com CG, Fan, Titan e Fazer. Um dos mais vendidos.</p>
+        <a class="btn" href=https://www.mercadolivre.com.br/social/fahgfdbce36727 target="_blank">Ver no Mercado Livre</a>
+      </div>
+
+      <div class="card">
+        <h3>🔧 Kit Relação</h3>
+        <p>Ótimo custo-benefício para uso diário.</p>
+        <a class="btn" href=https://www.mercadolivre.com.br/social/fahgfdbce36727 target="_blank">Ver Oferta</a>
+      </div>
+
+      <div class="card">
+        <h3>💡 Farol LED</h3>
+        <p>Mais visibilidade e visual esportivo.</p>
+        <a class="btn" href=https://www.mercadolivre.com.br/social/fahgfdbce36727target="_blank">Comprar Agora</a>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>⚠️ Site afiliado. Podemos receber comissão sem custo extra para você.</p>
+  </footer>
+</body>
+</html>
